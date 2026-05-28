@@ -1,0 +1,2 @@
+In TypeScript, any disables type checking, so it can allow many hidden errors in the code. That is why it is called a type safety hole.
+On the other hand, unknown is safer because TypeScript forces us to check the type before using the value. This process is called type narrowing.
